@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am Manmoksh
+I am Manmoksh.
+
 I'm currently learning to code... 
 
 
