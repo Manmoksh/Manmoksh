@@ -1,8 +1,27 @@
-## Hi there 👋
-I am Manmoksh.
+# Hi there 👋
 
-I'm currently learning to code... 
+I'm a beginner developer passionate about learning and building real-world projects.  
+Currently focusing on full-stack web development and open-source contributions through **GSSoC**.
 
+## 🚀 Tech Stack
+
+- 🌐 Frontend: **React**, **Next.js**
+- 🗃️ Databases: **SQL**, **MongoDB**
+- 🤖 Exploring: **Gemini AI** tools and integration
+- 🔧 Tools: **Git**, **GitHub**
+
+## 🌱 Currently:
+- Contributing to open-source via **GirlScript Summer of Code (GSSoC)**
+- Building mini projects to improve my skills
+- Learning how to read codebases and collaborate with developers
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(replace with your link)*
+- 📧 Email: your-email@example.com *(replace with your email)*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 <!--
 **Manmoksh/Manmoksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
