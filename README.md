@@ -16,12 +16,11 @@ Currently focusing on full-stack web development and open-source contributions t
 - Learning how to read codebases and collaborate with developers
 
 ## 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(replace with your link)*
-- 📧 Email: your-email@example.com *(replace with your email)*
+- [LinkedIn](https://www.linkedin.com/in/manmoksh) 
+📧 Email: manmoksh04@gmail.com
+-
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmokshshow_icons=true&theme=radical)
 
 <!--
 **Manmoksh/Manmoksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
