@@ -17,10 +17,11 @@ Currently focusing on full-stack web development and open-source contributions t
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/manmoksh) 
-📧 Email: manmoksh04@gmail.com
--
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmokshshow_icons=true&theme=radical)
+-📧 Email: manmoksh04@gmail.com
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmoksh&show_icons=true&theme=radical)
 
 <!--
 **Manmoksh/Manmoksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
