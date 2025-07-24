@@ -1,3 +1,23 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFA6&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Manmoksh+👋;A+CS+Undergrad+from+India.;Tech+enthusiast+💻+%7C+Problem+Solver+🧠;Building+the+future,+one+line+of+code+at+a+time!)](https://github.com/Manmoksh)
+
+<p align="right">
+  <a href="https://manmoksh.tech/" target="_blank" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=Manmoksh&label=Profile%20views&color=00BFA6&style=flat" alt="Profile views badge"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Final-year Computer Science undergrad from **India**  
+- 🛠️ Passionate about **full-stack development**, **AI**, and **developer tools**
+- 🌍 Always learning, always building – from **open source** to **personal projects**
+- 🔗 [Check out my portfolio »](https://manmoksh.tech/)
+- 💬 Let's connect over **React**, **Next.js**, or anything **tech**!
+
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Argha+Mallick,+a+CS+undergrad+from+Kolkata,+India.;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/iamarghamallick)
 
 <p align="right">
