@@ -105,28 +105,13 @@
 </p>
 
 <div align="center">
-	<a href="https://leetcode.com/u/iamarghamallick/" target="_blank">
-		<img alt="LeetCode-Stats" src="https://leetcard.jacoblin.cool/iamarghamallick?theme=dark&font=Noto%20Sans%20Tagbanwa&ext=heatmap" width="80%">
+	<a href="https://leetcode.com/u/manmoksh/" target="_blank">
+		<img alt="LeetCode-Stats" src="https://leetcard.jacoblin.cool/manmoksh?theme=dark&font=Noto%20Sans%20Tagbanwa&ext=heatmap" width="80%">
 	</a>
 </div>
 
 ---
-
-<div align="center">
-  <h2>Follow me around the Web</h2><br>
-  <a href="https://www.linkedin.com/in/iamarghamallick" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/iamarghamallick" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/iamarghamallick" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-</div>
-
----
-
-<p align="center">
- <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/Cool.gif">
-</p>
-
----
-# Hi there 👋
+Hi there 👋
 
 I'm a beginner developer passionate about learning and building real-world projects.  
 Currently focusing on full-stack web development and open-source contributions through **GSSoC**.
