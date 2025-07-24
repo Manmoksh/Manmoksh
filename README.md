@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFA6&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Manmoksh+👋;A+CS+Undergrad+from+India.;Tech+enthusiast+💻+%7C+Problem+Solver+🧠;Building+the+future,+one+line+of+code+at+a+time!)](https://github.com/Manmoksh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=00BFA6&center=true&multiline=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Manmoksh+👋;A+CS+Undergrad+from+India.;Tech+enthusiast+💻+%7C+Problem+Solver+🧠;Building+the+future,+one+line+of+code+at+a+time!)](https://github.com/Manmoksh)
 
 <p align="right">
   <a href="https://manmoksh.tech/" target="_blank" rel="noopener noreferrer">
