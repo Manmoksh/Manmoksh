@@ -31,30 +31,25 @@
 
 ## 🏆 GitHub At a Glance
 
+
 <div align="center">
-  <a href="https://github.com/Manmoksh" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manmoksh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" width="80%"/>
-  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manmoksh&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&hide_border=true" width="80%"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Manmoksh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manmoksh&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&hide_border=true" width="80%"/>
-  </a>
-</div>
-<!-- <div align="center">
-  <a href="https://github.com/Manmoksh" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Manmoksh&theme=vue&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Manmoksh's streak stats" width="80%"/>
-  </a>
-</div>-->
 <!--
-<div align="center">
-  <a href="https://manmoksh.tech/" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manmoksh&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" width="90%"/>
-  </a>
-</div> -->
+ <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Manmoksh&theme=vue&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Manmoksh's streak stats" width="80%"/>
+</div>
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Manmoksh&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" width="90%"/>
+</div> 
+-->
 ---
+<!-- 
 
 ## 💡 Coding Profiles
 
@@ -65,6 +60,8 @@
 </div>
 
 ---
+
+-->
 
 ## 🛠️ Tech Toolkit
 
