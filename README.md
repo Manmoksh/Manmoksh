@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey%20👋🏻!%20I'm%20Manmoksh;&center=true&color=00BFA6&duration=8000&multiline=false&width=350&height=60)](https://github.com/Manmoksh)
-![Profile View](https://komarev.com/ghpvc/?username=Manmoksh&label=Profile%20views&color=00BFA6&style=flat)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey%20👋🏻!%20I'm%20Manmoksh;&center=true&color=00BFA6&duration=8000&multiline=false&width=550&height=60)](https://github.com/Manmoksh) 
+<div align="right">
+ <img src='https://komarev.com/ghpvc/?username=Manmoksh&label=Profile%20views&color=00BFA6&style=flat' />
+</div>
+
+
+
  ---
 - 🎓 Final-year Computer Science undergrad from **India**
 - 💡 On a mission to solve real-world problems with *technology and creativity*
